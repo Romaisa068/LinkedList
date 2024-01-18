@@ -2,7 +2,6 @@
 Linked List with c++
 <br>
 <h3>Loop</h3>
-<br>
 <ul>
 <li>Detecting Cycle in LL</li>
 <li>Floyd's cycle detection algorithim</li>
@@ -12,7 +11,6 @@ Linked List with c++
 </ul>
 <br>
 <h3>Palindrome</h3>
-<br>
 <ul>
 <li>Check the Linked List is Palindrome</li>
 <li>Get Middle Node of LL</li>
