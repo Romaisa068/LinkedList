@@ -9,7 +9,7 @@ Linked List with c++
 <li>Remove Loop in LL</li>
 <li>Print LL</li>
 </ul>
-<br>
+
 <h3>Palindrome</h3>
 <ul>
 <li>Check the Linked List is Palindrome</li>
@@ -19,4 +19,10 @@ Linked List with c++
 <li>Again reverse 2nd half of LL </li>
 </ul>
 
+<h3>Add Two Numbers represened as a LL</h3>
+<ul>
+<li>Reverse the input LL using "Reverse Function"</li>
+<li>Add them using "Add Function"</li>
+<li>Reverse the Result </li>
+</ul>
 
